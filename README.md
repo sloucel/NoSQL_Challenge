@@ -2,8 +2,9 @@
 Module 12: NoSQL Databases
 
 # Timeline
-1. Sun, Jun 1th @8:21PM - Completed Part 1: Database and Jupyter Notebook Set Up
-2. 
+1. Sun, Jun 16th @8:21PM - Completed Part 1: Database and Jupyter Notebook Set Up.
+2. Wed, Jun 19th @3:17PM - Added 'Penang Flavours' to 'establishments' collection. 
+3. Wed, Jun 19th @4:12PM - Removed Dover from the 'establishments' collection.
 
 
 # Resources
